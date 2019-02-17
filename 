@@ -1,0 +1,37 @@
+[33mcommit 10d17a8b418c67374ad1d15fd8a69b39d4091458[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Enmanuel Lopez <enmanuel.lopezm.f@gmail.com>
+Date:   Sat Feb 16 23:01:15 2019 -0500
+
+    Added readme
+
+[33mcommit 82793f10cbf98ef8918518226731092630a86c32[m
+Merge: fd62da0 f2a13a4
+Author: Enmanuel Lopez <enmanuel.lopezm.f@gmail.com>
+Date:   Sat Feb 16 22:48:36 2019 -0500
+
+    Merge branch 'login'
+    Added login
+
+[33mcommit f2a13a462777cf8e05da7987f43e89850cca4da0[m[33m ([m[1;32mlogin[m[33m)[m
+Author: Enmanuel Lopez <enmanuel.lopezm.f@gmail.com>
+Date:   Sat Feb 16 22:47:33 2019 -0500
+
+    login form
+
+[33mcommit fd62da0a1303035d0df361e76c55f24bab7b9a6a[m
+Author: Enmanuel Lopez <enmanuel.lopezm.f@gmail.com>
+Date:   Sat Feb 16 22:44:03 2019 -0500
+
+    anothe change
+
+[33mcommit d2d11ffceba69567dd9f0e5e95c1b725b5b2d09c[m
+Author: Enmanuel Lopez <enmanuel.lopezm.f@gmail.com>
+Date:   Sat Feb 16 22:30:55 2019 -0500
+
+    Changed app.js
+
+[33mcommit b42a0e4047120063fa59d6ec59cc9f4ecfaa5824[m
+Author: Enmanuel Lopez <enmanuel.lopezm.f@gmail.com>
+Date:   Sat Feb 16 22:16:52 2019 -0500
+
+    Initial commit
